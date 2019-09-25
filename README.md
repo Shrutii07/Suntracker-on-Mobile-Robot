@@ -37,6 +37,5 @@ ldrs readings.
 ## Special Thanks
 Dr. Shital Chiddarwar
 
-
-
+![Suntracker](Suntracker.png)
 
