@@ -13,7 +13,7 @@ X and Y values are used to have precise control of Left Hand Side(LHS) and Right
 if Y is +ve the LHS motors will have Y+X speed and RHS motor will have Y-X speed. If Y is -ve then LHS motors 
 will have Y-X speed and RHS motors will have Y+X speed. Direction of rotation will be decided according to the
 signage of values of Y+X and Y-X in both the cases. This will the bot to move according to the position of 
-joystick on screen. It i seasy to figure out how this can take care of all possible cases of movement one 
+joystick on screen. It is easy to figure out how this can take care of all possible cases of movement one 
 might require fromm bot.
 ```
 ### Suntracker
